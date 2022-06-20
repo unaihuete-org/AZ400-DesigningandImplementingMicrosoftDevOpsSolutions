@@ -7,7 +7,7 @@ lab:
 # Lab 00: Validate lab environment
 # Student lab manual
 
-## Instructions
+## Instructions fdfdsfdsfds
 
 1. Get a new **Azure Pass promocode** (valid for 30 days) from the instructor or other source.
 2. Use a private browser session to get a new **Microsoft Account (MSA)** at [Microsoft account](https://account.microsoft.com) or use an existing one.
